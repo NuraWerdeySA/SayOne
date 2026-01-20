@@ -8,23 +8,23 @@
       <img src="https://app.codacy.com/project/badge/Grade/97e3ea868f9344a5aa6e4d874f83db14" alt="Codacy Grade">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/github/languages/code-size/coddrago/Heroku" alt="Code Size">
+      <img src="https://img.shields.io/github/languages/code-size/NuraWerdeySA/SayOne" alt="Code Size">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/github/issues-raw/coddrago/Heroku" alt="Open Issues">
+      <img src="https://img.shields.io/github/issues-raw/NuraWerdeySA/SayOne" alt="Open Issues">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/github/license/coddrago/Heroku" alt="License">
+      <img src="https://img.shields.io/github/license/NuraWerdeySA/SayOne" alt="License">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/github/commit-activity/m/coddrago/Heroku" alt="Commit Activity">
+      <img src="https://img.shields.io/github/commit-activity/m/NuraWerdeySA/SayOne" alt="Commit Activity">
     </a>
     <br>
     <a href="#">
-      <img src="https://img.shields.io/github/forks/coddrago/Heroku?style=flat" alt="Forks">
+      <img src="https://img.shields.io/github/forks/NuraWerdeySA/SayOne?style=flat" alt="Forks">
     </a>
     <a href="#">
-      <img src="https://img.shields.io/github/stars/coddrago/Heroku" alt="Stars">
+      <img src="https://img.shields.io/github/stars/NuraWerdeySA/SayOne" alt="Stars">
     </a>
     <a href="https://github.com/psf/black">
       <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code Style: Black">
@@ -37,7 +37,7 @@
 ## ⚠️ Security Notice
 
 > **Important Security Advisory**  
-> While Heroku implements extended security measures, installing modules from untrusted developers may still cause damage to your server/account.
+> While SayOne implements extended security measures, installing modules from untrusted developers may still cause damage to your server/account.
 > 
 > **Recommendations:**
 > - ✅ Download modules exclusively from official repositories or trusted developers
