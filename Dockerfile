@@ -51,8 +51,8 @@ RUN rm -rf /var/lib/apt/lists/ /var/cache/apt/archives/ /tmp/*
 WORKDIR /data
 RUN mkdir /data/private
 
-RUN git clone https://github.com/coddrago/Heroku /data/Heroku
-WORKDIR /data/Heroku
+RUN git clone https://github.com/NuraWerdeySA /data/SayOne
+WORKDIR /data/SayOne
 RUN git fetch && git checkout master && git pull
 
 RUN pip install --no-warn-script-location --no-cache-dir -U -r requirements.txt
