@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/hikariatama/assets/raw/master/1326-command-window-line-flat.webp" height="80">
-  <h1>Heroku Userbot</h1>
+  <h1>SayOne Userbot</h1>
   <p>Advanced Telegram userbot with enhanced security and modern features</p>
   
   <p>
@@ -52,7 +52,7 @@
 
 ```bash
 apt update && apt install git python3 -y && \
-git clone https://github.com/coddrago/Heroku && \
+git clone https://github.com/NuraWerdeySA/SayOne && \
 cd Heroku && \
 pip install -r requirements.txt && \
 python3 -m heroku
